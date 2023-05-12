@@ -6,6 +6,8 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px 20px;
+    position: sticky;
+    top: 0;
 }
 .logo{
     color: rgb(254, 4, 4);
