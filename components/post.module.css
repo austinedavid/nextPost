@@ -1,0 +1,28 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.creator{
+    color: green;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.edit{
+    color: white;
+    background-color: goldenrod;
+    padding: 5px;
+    border-width: 0ch;
+    cursor: pointer;
+}
+.delete{
+    color: white;
+    background-color: red;
+    padding: 5px;
+    border-width: 0ch;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.heading{
+    color: rgb(79, 79, 233);
+}
